@@ -36,7 +36,6 @@ For the Frontend Development React JS was preferred as it has a good support bas
 <h2>Challenges: </h2><br>
 Since the project was done on a short duration. The challenges faced were often quite low but still I had faced some challenges such as: <br>
 <h3>JsonField : </h3><br>
-
 <h4>Problem: </h4> <br>
 One of the major obstacle of Django is that its built in model has no JsonField support for Sqlite Database. Since the geo location of all the countries had to be stored in a Json format in order to improve the efficiency when the data is stored ion the Backend and  rendered at the Frontend as often times geo location of the countries have mixtures of variables such as String, Integer, Array and Float<br>
 
@@ -87,3 +86,5 @@ Since the project was only done on a shortly basis so there are lot the room for
 •	User must update the Password filed which in present in the DATABASE section at settings.py file located in worldmap folder<br>
 
 ![image](https://user-images.githubusercontent.com/32815205/121304836-915d2500-c91c-11eb-8e74-5137006ffa4d.png)
+
+<h2>Note: Please refer to <b>Overview of the project.pdf</b> for clearer view</h2>
