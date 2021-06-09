@@ -1,10 +1,13 @@
-# bmi
 <h2>Project Overview</h2>
 
 The software was built with the base of Django for backend and whereas React and Bootstrap was designed to handle the frontend operation. The software highlights all the countries in the world map that matches with the search query. <br>
- 
+
+![image](https://user-images.githubusercontent.com/32815205/121304720-6b378500-c91c-11eb-9225-ab922e296d5f.png)
+
 Figure: Overall view of the project<br>
- 
+
+![image](https://user-images.githubusercontent.com/32815205/121304777-7be7fb00-c91c-11eb-8db8-f3307e97e649.png)
+
 Figure: Search query and mapping function of the Application<br>
 
 <h2>Development Overview: </h2>
@@ -69,12 +72,18 @@ Since the project was only done on a shortly basis so there are lot the room for
 
 •	In order to use the app the user install all the required pip dependencies through the provided requirements.txt<br>
 
+```
  pip3 install –r requirements.txt
+
+```
+
 
 •	User must import the provided PostgreSql file(worldmap.sql): <br>
 
- 
+
+![image](https://user-images.githubusercontent.com/32815205/121304807-87d3bd00-c91c-11eb-99f1-0e55c7aa573d.png)
+
 
 •	User must update the Password filed which in present in the DATABASE section at settings.py file located in worldmap folder<br>
 
- 
+![image](https://user-images.githubusercontent.com/32815205/121304836-915d2500-c91c-11eb-8e74-5137006ffa4d.png)
